@@ -32,7 +32,7 @@ const Education = () => {
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block w-[300px] hover:shadow-primary duration-300 cursor-pointer">
             <div className="text-right mb-4">
               <h3 className="text-2xl font-semibold text-primary">
-                Singapore University of Social Sciences 
+                Singapore University of Social Sciences
               </h3>
               <p className="text-sm text-neutral font-semibold">2007 - 2011</p>
             </div>
@@ -62,7 +62,7 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2011</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I graduated successfully with BS degree in computer science
+              I graduated with BS degree in computer science
             </p>
           </div>
         </div>
