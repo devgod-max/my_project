@@ -58,7 +58,6 @@ const MySkill = () => {
     { title: "ExpressJS", icon: <SiExpress className="text-neutral" /> },
     { title: "Laravel", icon: <FaLaravel className="text-neutral" /> },
     { title: "CodeIgniter", icon: <FaCode className="text-neutral" /> },
-    { title: "React-Native", icon: <FaReact className="text-cyan-400" /> },
   ];
   const tools = [
     { title: "VSCode", icon: <FaCode className="text-green-500" /> },

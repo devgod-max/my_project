@@ -36,12 +36,11 @@ const About = () => {
             }}
             
           >
-            <img
-              // src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
-              src="/davi.png"
-              alt="Davi Souza Costa"
+            <img              
+              src="/debugging.jpeg"
+              alt="Cristiano Silva"
               className="p-12 w-70 h-70 transform translate-y-[-12%] "
-              // title="Davi Souza Costa"
+              // title="Cristiano Silva"
               style={{borderRadius : '100px'}}
             />
 
@@ -55,7 +54,7 @@ const About = () => {
               transition: { duration: 1, delay: 1.25 },
             }}
           >
-            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Davi Souza Costa</h1>
+            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Cristiano Silva</h1>
             <div className="my-8">
               <TypeAnimation
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
@@ -75,32 +74,30 @@ const About = () => {
               />
             </div>
             <p className="text-neutral font-medium text-center translate-y-[-100%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-            Hi! I am Davi Souza Costa, a Senior Full-Stack Developer with 8+years of experience in building modern, responsive web applications. 
-            I specialize in leveraging the latest technologies like React, Node.js, and Docker to create scalable solutions that enhance user experience and performance.
-            Recently, I led a project using MERNstack architecture that improved site speed by 50% while providing a seamless user interface.
-             I also actively contribute to open-source projects, focusing on building reusable components and APIs that foster collaboration within the developer community.
-              
+            Hi! I am Cristiano Silva, a Senior Full-Stack Developer with 10+y ears of experience in building modern, responsive web applications. 
+            I specialize in leveraging the latest technologies like React, Angular, Vue, Node.js, Django, Spring Boot, .NET and Docker to create 
+            scalable solutions that enhance user experience and performance.
+            Recently, I led a project using MERNstack architecture that improved site speed by 30% while providing a seamless user interface.
+            My experiences spans across ecommerce, fintech and healthcare industries.
             </p>
             <br />
             <p className="text-neutral font-medium text-center translate-y-[-150%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-            I am passionate about staying ahead of industry trends, including microservices, serverless architecture, and AI integration in web applications.
-            Let 's transform innovative ideas into digital realities together!
-              {/* My next mission is how to become a Mern stack Developer. I would
-              love to build some Giant Website which will shine myself. */}
+            I am passionate about staying ahead of industry trends including microservices, serverless architecture and AI integration in web applications.
+            Let 's transform innovative ideas into digital realities together!              
             </p>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-12 gap-y-4 mt-4 text-center translate-y-[-50%] sm:translate-y-[-0%] sm:mb-2 md:text-left ">
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Name : </span>Davi Souza Costa
+                <span className="mr-2 text-primary">Name : </span>Cristiano Silva
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Phone : </span>+55 71 9883 47553
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>
-                davicostasocial1994@gmail.com
+                wodldoel@gmail.com
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Salvador, Bahia, Brazil
+                <span className="mr-2 text-primary">Address : </span>Lauro de Freitas, BA, Brazil
               </h2>
               {/* <a
                 href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"

@@ -26,7 +26,7 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hi, I'm</h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Davi Souza Costa</h1>
+        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Cristiano Silva</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
@@ -46,7 +46,7 @@ const Banner = () => {
           />
         </div>
         <p className="text-neutral max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]">
-        Detail-oriented and passionate Senior Full-Stack Developer with over 8 years of experience in
+        Detail-oriented and passionate Senior Full-Stack Developer with over 10 years of experience in
 building scalable, user-centric web applications. Proven expertise in modern front-end
 frameworks and back-end development, with a strong foundation in Python. Excellent problemsolving skills and ability to collaborate effectively with cross-functional teams, ensuring highquality feature delivery and seamless user experiences. A dedicated mentor who drives code
 quality and adheres to best practices.

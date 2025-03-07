@@ -32,12 +32,12 @@ const Education = () => {
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block w-[300px] hover:shadow-primary duration-300 cursor-pointer">
             <div className="text-right mb-4">
               <h3 className="text-2xl font-semibold text-primary">
-                Bicol University 
+                Singapore University of Social Sciences 
               </h3>
-              <p className="text-sm text-neutral font-semibold">2010 - 2014</p>
+              <p className="text-sm text-neutral font-semibold">2007 - 2011</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-            University for Humanity for sustainable societies, and the top performing school in social work, accountancy, nursing, education, engineering, midwifery,  and law!
+            The Singapore University of Social Sciences is a public autonomous university in Singapore. SUSS focuses on applied degree programmes primarily in the social sciences. In 2017, SUSS received its inaugural class of 2,137 graduates.
             </p>
           </div>
 
@@ -47,7 +47,7 @@ const Education = () => {
               <h3 className="text-2xl font-semibold text-primary">
                 Computer Science
               </h3>
-              <p className="text-sm text-neutral font-semibold">2010 - 2014</p>
+              <p className="text-sm text-neutral font-semibold">2007 - 2011</p>
             </div>
             <p className="text-sm text-neutral text-justify">
             Computer Science isn' t just about coding. Our faculty explores diverse pathways: data science, game development, web technology, and more. Whatever your passion,
@@ -59,7 +59,7 @@ const Education = () => {
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg w-[300px] hover:shadow-primary duration-300 cursor-pointer">
             <div className="text-right mb-4">
               <h3 className="text-2xl font-semibold text-primary">Bachelor's Degree</h3>
-              <p className="text-sm text-neutral font-semibold">2024</p>
+              <p className="text-sm text-neutral font-semibold">2021</p>
             </div>
             <p className="text-sm text-neutral text-justify">
               I graduated successfully with BS degree in computer science

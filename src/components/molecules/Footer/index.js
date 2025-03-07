@@ -113,7 +113,7 @@ const Footer = () => {
               className="text-primary hover:underline"
               target="blank"
             >
-              Davi Souza Costa
+              Cristiano Silva
             </a>
           </p>
         </div>
