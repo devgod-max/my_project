@@ -144,7 +144,7 @@ const Contact = () => {
           </div>
           <div className="flex items-center my-6">
             <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
-            <h3 className="font-medium text-primary">+55 71 9883 47553</h3>
+            <h3 className="font-medium text-primary">+55 71 98834 7553</h3>
           </div>
           <div className="flex items-center my-6">
             <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
@@ -154,7 +154,7 @@ const Contact = () => {
             <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>
 
             <h3 className="font-medium text-primary">
-              Salvador, Bahia, Brazil
+              Lauro de Freitas, Bahia, Brazil
             </h3>
           </div>
           <div className="mt-8 flex items-center">

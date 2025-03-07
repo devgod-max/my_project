@@ -90,7 +90,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Name : </span>Cristiano Silva
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Phone : </span>+55 71 9883 47553
+                <span className="mr-2 text-primary">Phone : </span>+55 71 98834 7553
               </h2>
               <h2 className="font-medium">
                 <span className="mr-2 text-primary">Email : </span>

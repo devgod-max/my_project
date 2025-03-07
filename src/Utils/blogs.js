@@ -4,7 +4,7 @@ const blogs = [
     title: "Getting to Know the Metaverse and How It Influences Life",
     path: "know-metaverse",
     date: "10 September 2022",
-    img: "Certificate_Davi_MachineLearning.jpg",
+    img: "Certificate_Cristiano_MachineLearning.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -18,7 +18,7 @@ const blogs = [
     title: "Know the Difference Between Front End and Back End Developer",
     path: "know-fronted-backend-developer",
     date: "20 September 2022",
-    img: "Certificate_Davi_Vue copy.jpg",
+    img: "Certificate_Cristiano_Vue.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -32,7 +32,7 @@ const blogs = [
     title: "Get to know what a Proxy Server is & how it works",
     path: "know-proxy-server",
     date: "25 September 2022",
-    img: "Certificate_Davi_PHP copy.jpg",
+    img: "Certificate_Cristiano_PHP.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -46,7 +46,7 @@ const blogs = [
     title: "Get to know Big Data Technology to Optimize Your Business",
     path: "know-big-data",
     date: "06 November 2022",
-    img: "Certificate_Davi_AWS.jpg",
+    img: "Certificate_Cristiano_AWS.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -60,7 +60,7 @@ const blogs = [
     title: "Why the Internet of Things (IoT) Will Be The Biggest Technology Trend In The Future",
     path: "internet-of-things",
     date: "09 November 2022",
-    img: "Certificate_Davi_English.jpg",
+    img: "Certificate_Cristiano_English.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
@@ -74,7 +74,7 @@ const blogs = [
     title: "How Cloud Computing Technology Helps Increase Business Efficiency",
     path: "cloud-computing",
     date: "12 November 2022",
-    img: "Certificate_Davi_Fullstack.jpg",
+    img: "Certificate_Cristiano_Fullstack.jpg",
     instagram_link:
       "https://www.instagram.com/bethup97/?next=%2F",
     linkedin_link:
